@@ -1,3 +1,4 @@
-# Sedona-lab
+﻿# Sedona-lab
 
-Отредактируй Меня! =)
+Отредактируй Меня! =) -done* 
+	Be simplier.
